@@ -1,5 +1,5 @@
 
-# First Aid Helpline 
+# First Aid LLM based Helpline 
 
 This project leverages a large language model (LLM) to provide first aid advice during emergencies. It is integrated with a helpline number, allowing callers to explain their situations and receive appropriate first aid guidance from the LLM.
 
